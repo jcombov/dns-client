@@ -1,0 +1,6 @@
+A www.uvigo.es
+A www.google.es
+A www.google.es
+NS uvigo.es
+NS uvigo.es
+A www.amazon.com
